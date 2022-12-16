@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sophia
-- 🌱 I’m currently learning Java..
-- 📫 How to reach me sophia@ximenes.info...
+# Oiii eu sou a Sophia Mello, estudante de informática
+<div align="center">
 
 <!---
 SophiaMel/SophiaMel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
