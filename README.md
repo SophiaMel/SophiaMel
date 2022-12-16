@@ -1,4 +1,4 @@
-# Oiii eu sou a Sophia Mello, estudante de informática
+# Olá eu sou a Sophia Mello, estudante de informática
 <div align="center">
 <a href="https://github.com/SophiaMel">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SophiaMel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
